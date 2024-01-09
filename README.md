@@ -3,7 +3,7 @@
 ## Section 1: Understanding the Dataset
  ### Dataset Overview
     ** Data Collection ** : 
-       The "DoctorVisits - DA.csv" dataset contains comprehensive information about patients, 
+       The "Doctor_Visits_dataset.csv" dataset contains comprehensive information about patients, 
     including their gender, age, income, illness, and various other attributes collected
     during their visits to the hospital.
 
